@@ -5,11 +5,15 @@
 
 ## Установка и зависимости
 
+Через Docker
+
+```sudo docker-compose up```
+
 Python > 3.7
 
 Из папки проекта
 
-```pip install -r requirments.txt```
+```pip install -r requirements.txt```
 
 ## Запуск
 

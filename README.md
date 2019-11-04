@@ -3,6 +3,20 @@
 
 Бот сделан с помощью django. В моем API всего 2 запроса, поэтому я не стал использовать django rest framework.
 
+## Установка и зависимости
+
+Python > 3.7
+
+Из папки проекта
+
+```pip install -r requirments.txt```
+
+## Запуск
+
+Из папки проекта
+
+```./manage.py runserver```
+
 ## Документация API
 
 ### HTTP get запрос /ask:
